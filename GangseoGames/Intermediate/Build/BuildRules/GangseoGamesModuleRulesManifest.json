@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Work\\GangseoGames\\Source\\GangseoGames\\GangseoGames.Build.cs",
+		"D:\\Work\\GangseoGames\\Source\\GangseoGames.Target.cs",
+		"D:\\Work\\GangseoGames\\Source\\GangseoGamesEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GangseoGames.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{58501907-4C67-47C0-9F29-DD5F19E5DB3B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GangseoGames.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GangseoGamesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{24467EC8-7470-4BC6-87A6-6558046D553B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GangseoGames">
+      <UniqueIdentifier>{AF723F7E-FD34-4B99-8845-85C425FD1DAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GangseoGames\GangseoGames.Build.cs">
+      <Filter>Source\GangseoGames</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GangseoGames\GangseoGames.cpp">
+      <Filter>Source\GangseoGames</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GangseoGames\GangseoGames.h">
+      <Filter>Source\GangseoGames</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GangseoGames\GangseoGamesGameModeBase.cpp">
+      <Filter>Source\GangseoGames</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GangseoGames\GangseoGamesGameModeBase.h">
+      <Filter>Source\GangseoGames</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

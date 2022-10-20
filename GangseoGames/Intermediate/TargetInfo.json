@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GangseoGames",
+			"Path": "D:\\Work\\GangseoGames\\Source\\GangseoGames.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GangseoGamesEditor",
+			"Path": "D:\\Work\\GangseoGames\\Source\\GangseoGamesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

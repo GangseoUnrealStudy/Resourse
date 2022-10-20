@@ -1,0 +1,2 @@
+D:\Work\GangseoGames\Intermediate\Build\Win64\UE4Editor\Development\GangseoGames\Definitions.GangseoGames.h
+D:\Work\GangseoGames\Source\GangseoGames\GangseoGames.h

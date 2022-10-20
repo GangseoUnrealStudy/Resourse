@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GangseoGames.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Work\GangseoGames\Intermediate\Build\Win64\GangseoGamesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Work\GangseoGames\Intermediate\Build\Win64\UE4Editor\Development\GangseoGames\GangseoGames.cpp.obj"
+"D:\Work\GangseoGames\Intermediate\Build\Win64\UE4Editor\Development\GangseoGames\GangseoGamesGameModeBase.cpp.obj"
+"D:\Work\GangseoGames\Intermediate\Build\Win64\UE4Editor\Development\GangseoGames\GangseoGamesGameModeBase.gen.cpp.obj"
+"D:\Work\GangseoGames\Intermediate\Build\Win64\UE4Editor\Development\GangseoGames\GangseoGames.init.gen.cpp.obj"
+"D:\Work\GangseoGames\Intermediate\Build\Win64\UE4Editor\Development\GangseoGames\Default.rc2.res"
+/OUT:"D:\Work\GangseoGames\Intermediate\Build\Win64\UE4Editor\Development\GangseoGames\UE4Editor-GangseoGames.lib"
